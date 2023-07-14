@@ -1,0 +1,92 @@
+.Home {
+  width: 90%;
+  border-radius: 5px;
+  background-color: #00010F;
+  padding: 16px;
+  overflow-y: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 10px;
+  flex-grow: 1;
+}
+.book {
+  color: white;
+  height: 500px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(28, 28, 28);
+  transition: 0.3s;
+  position: relative;
+}
+.Home .book:hover {
+  box-shadow: 0 0 10px rgb(28, 28, 28);
+}
+.card {
+  height: 100%;
+  gap: 3px;
+  display: flex;
+  flex-direction: column;
+}
+.Home .book a {
+  text-decoration: none;
+  color: white;
+}
+.book h2 {
+  font-size: 16px;
+  font-weight: 500;
+  text-shadow: 0 0 5px #00010F;
+}
+.date {
+  font-size: 12px;
+}
+.book .image {
+  width: 100%;
+  height: 80%;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+.book:hover .card .image {
+  filter: drop-shadow(0 0 5px #00010F);
+}
+.book .btnSave {
+  background-color: rgba(0, 0, 0, 0.371);
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  border-radius: 5px;
+  font-size: 1.15rem;
+  padding: 0.5rem;
+}
+.book .btnSave.disabled {
+  pointer-events: none;
+  opacity: 0.3;
+}
+.book .btnSave:hover {
+  padding: 12px;
+  font-size: 1.3rem;
+  background: #0bac0b;
+}
+@media (max-width: 992px) {
+  .Home {
+    text-align: center;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .book .btnSave {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 768px) {
+  .Home {
+    text-align: center;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 500px) {
+  .Home {
+    text-align: center;
+    grid-template-columns: 1fr;
+  }
+  .card {
+    justify-content: space-evenly;
+  }
+}

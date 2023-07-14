@@ -1,0 +1,45 @@
+.Header {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+}
+.Header h1 {
+  font-size: 1.75rem;
+  font-weight: 500;
+  width: auto;
+  padding: 0 10px;
+  color: white;
+}
+.Header h1 span {
+    color: white;
+  font-weight: 700;
+  padding-right: 5px;
+  border-radius: 10%;
+}
+@media (max-width: 992px) {
+  .Header {
+    padding: 16px;
+  }
+}
+@media (max-width: 600px) {
+  .Header {
+    grid-template-areas:
+      "header header"
+      "nav nav";
+    place-content: center;
+  }
+  .Header h1 {
+    width: 100%;
+    text-align: center;
+    grid-area: header;
+    align-self: center;
+  }
+}
+@media (max-width: 500px) {
+  .Header {
+    gap: 10px;
+    padding-bottom: 0;
+  }
+}
