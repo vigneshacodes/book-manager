@@ -2,26 +2,26 @@
   "books": [
     {
       "id": 1,
-      "title": "Software Architecture: The Hard Parts",
-      "author": "Neal Ford",
-      "image": "https://image.ebooks.com/cover/210380834.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "There are no easy decisions in software architecture. Instead, there are many hard parts--difficult problems or issues with no best practices--that force you to choose among various compromises. With this book, you'll learn how to think critically about the trade-offs involved with distributed architectures."
-      ,"saved":false
+      "title": "Nanomedicine Emerging Prospects",
+      "author": "Subramanian Tamil Selvan",
+      "image": "https://image.ebooks.com/cover/210829289.jpg?width=332&height=500&quality=85",
+      "date": "2023-06-01",
+      "body": "TThis book highlights the emerging paradigm of nanomedicine, intersecting two burgeoning fields of nanotechnology and medicine. Numerous publications have appeared in the literature over the years, especially in cancer nanomedicine.",
+      "saved":false
     },
     {
       "id": 2,
-      "title": "Learning Domain-Driven Design",
-      "author": "Vlad Khononov",
-      "image": "https://image.ebooks.com/cover/210393921.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "Building software is harder than ever. As a developer, you not only have to chase ever-changing technological trends but also need to understand the business domains behind the software. This practical book provides you with a set of core patterns, principles, and practices for analyzing business domains, understanding business strategy, and, most importantly, aligning software design with its business needs."
-      ,"saved":false
+      "title": "ChatGPT For Dummies",
+      "author": "Pam Baker",
+      "image": "https://image.ebooks.com/cover/210846834.jpg?width=332&height=500&quality=95",
+      "date": "2023-05-01",
+      "body": "ChatGPT For Dummies demystifies the artificial intelligence tool that can answer questions, write essays, and generate just about any kind of text it’s asked for. This powerful example of generative AI is widely predicted to upend education and business.",
+      "saved":false
     },
     {
       "id": 3,
-      "title": "Fundamentals of Data Engineering",
-      "author": "Joe Reis, Matt Housley",
+      "title": "The Cambridge Handbook",
+      "author": "Jacob E. and Joel H.",
       "image": "https://image.ebooks.com/cover/210595152.jpg?width=332&height=500&quality=85",
       "date": "2023-06-15",
       "body": "Data engineering has grown rapidly in the past decade, leaving many software engineers, data scientists, and analysts looking for a comprehensive view of this practice. With this practical book, you'll learn how to plan and build systems to serve the needs of your organization and customers by evaluating the best technologies available through the framework of the data engineering lifecycle."
@@ -29,74 +29,65 @@
     },
     {
       "id": 4,
-      "title": "Building Microservices (2nd ed.)",
-      "author": "Sam Newman",
-      "image": "https://image.ebooks.com/cover/210338899.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "As organizations shift from monolithic applications to smaller, self-contained microservices, distributed systems have become more fine-grained. But developing these new systems brings its own host of problems. This expanded second edition takes a holistic view of topics that you need to consider when building, managing, and scaling microservices architectures."
+      "title": "The Webs of Humankind",
+      "author": "J. R. McNeill",
+      "image": "https://image.ebooks.com/cover/210171579.jpg?width=332&height=500&quality=85",
+      "date": "2020-12-10",
+      "body": "A leader in the field presents a cohesive narrative of world history that effectively addresses the main challenge of the introductory survey: how to navigate beginning students through the vast detail of the subject. McNeill uses connective webs—along which trade, religious beliefs, technologies, pathogens, and much else traveled—to organize details and keep the big picture in view."
       ,"saved":false
     },
     {
       "id": 5,
-      "title": "Fluent Python (2nd ed.)",
-      "author": "Luciano Ramalho",
-      "image": "https://image.ebooks.com/cover/210531368.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "Don't waste time bending Python to fit patterns you've learned in other languages. Python's simplicity lets you become productive quickly, but often this means you aren't using everything the language has to offer. With the updated edition of this hands-on guide, you'll learn how to write effective, modern Python 3 code by leveraging its best ideas."
+      "title": "Obsessed",
+      "author": "James Patterson",
+      "image": "https://image.ebooks.com/cover/210683011.jpg?width=332&height=500&quality=85",
+      "date": "2023-07-08",
+      "body": "Detective Michael Bennett must discover who's murdering glamorous young women - before his eldest daughter is targeted. Detective Michael Bennett and the NYPD are aboard a police boat in the Hudson River searching for a murder victim - a young college student."
       ,"saved":false
     },
     {
       "id": 6,
-      "title": "Hands-On Machine Learning ",
-      "author": "Aurélien Géron",
-      "image": "https://image.ebooks.com/cover/210681725.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "Through a recent series of breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This bestselling book uses concrete examples, minimal theory, and production-ready Python frameworks (Scikit-Learn, Keras, and TensorFlow) to help you gain an intuitive understanding of the concepts and tools for building intelligent systems."
+      "title": "Critical Thinking Edition-4",
+      "author": "Richard Paul & Linda Elder",
+      "image": "https://image.ebooks.com/cover/210416748.jpg?width=332&height=500&quality=85",
+      "date": "2021-12-04",
+      "body": "Written by international authorities on critical thinking, this book details an integrated, universal concept of critical thinking that is both substantive and applicable to any and every situation in which human thinking is necessary."
       ,"saved":false
     },
     {
       "id": 7,
-      "title": "Learning JavaScript Design Patterns ",
-      "author": "Addy Osmani",
-      "image": "https://image.ebooks.com/cover/210832548.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "Do you want to write beautiful, structured, and maintainable JavaScript by applying modern design patterns to the language? Do you want clean, efficient, manageable code? Want to stay up-to-date with the latest best practices? If so, the updated second edition of Learning JavaScript Design Patterns is the ideal place to start."
+      "title": "An Introduction to Behavior Analysis ",
+      "author": "Gregory J. Madden,  Derek D. Reed",
+      "image": "https://image.ebooks.com/cover/210223166.jpg?width=332&height=500&quality=85",
+      "date": "2021-02-05",
+      "body": "An Introduction to Behavior Analysis delivers an engaging and comprehensive introduction to the concepts and applications for graduate students of behavior analysis. Written from the ground up to capture and hold student interest, the book keeps its focus on practical issues."
       ,"saved":false
     },
     {
       "id": 8,
-      "title": "Designing Data-Intensive Applications",
-      "author": "Martin Kleppmann",
-      "image": "https://image.ebooks.com/cover/95729334.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "Data is at the center of many challenges in system design today. Difficult issues need to be figured out, such as scalability, consistency, reliability, efficiency, and maintainability. In addition, we have an overwhelming variety of tools, including relational databases, NoSQL datastores, stream or batch processors, and message brokers. What are the right choices for your application? How do you make sense of all these buzzwords?"
+      "title": "The Unhackable Internet",
+      "author": "Thomas P. Vartanian",
+      "image": "https://image.ebooks.com/cover/210688453.jpg?width=332&height=500&quality=85",
+      "date": "2023-02-11",
+      "body": "Like most aspects of modern existence, more and more of our financial lives have migrated to the digital realm. With the benefits of ease that our Internet allows us, that transition also raises numerous – and dangerous – threats to national security, our money, and the systems we use to store and transfer it."
       ,"saved":false
     },
     {
       "id": 9,
-      "title": "The Staff Engineer's Path",
-      "author": "Tanya Reilly",
-      "image": "https://image.ebooks.com/cover/210670147.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "For years, companies have rewarded their most effective engineers with management positions. But treating management as the default path for an engineer with leadership ability doesn't serve the industry well--or the engineer. The staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills."
+      "title": "Javascript OOP",
+      "author": "Ved Antani ,  Gastón C. Hillar",
+      "image": "https://image.ebooks.com/cover/2691293.jpg?width=332&height=500&quality=85",
+      "date": "2016-08-14",
+      "body": "Learn popular Object-Oriented programming (OOP) principles and design patterns to build robust apps. Implement Object-Oriented concepts in a wide range of frontend architectures. Capture objects from real-world elements and create object-oriented code that represents them."
       ,"saved":false
     },
     {
       "id": 10,
-      "title": "Generative Deep Learning",
-      "author": "David Foster",
-      "image": "https://image.ebooks.com/cover/210833591.jpg?width=332&height=500&quality=85",
-      "date": "2023-06-15",
-      "body": "Generative AI is the hottest topic in tech. This practical book teaches machine learning engineers and data scientists how to use TensorFlow and Keras to create impressive generative deep learning models from scratch, including variational autoencoders (VAEs), generative adversarial networks (GANs), Transformers, normalizing flows, energy-based models, and denoising diffusion models."
-      ,"saved":false
-    },
-    {
-      "id": 11,
-      "title": "Software Architecture",
-      "author": "Neal Ford",
-      "date": "2023-06-15",
-      "image": "https://image.ebooks.com/cover/210380834.jpg?width=332&height=500&quality=85",
-      "body": "There are no easy decisions in software architecture. Instead, there are many hard parts--difficult problems or issues with no best practices--that force you to choose among various compromises. With this book, you'll learn how to think critically about the trade-offs involved with distributed architectures."
+      "title": "Full-Stack React, TypeScript & Node",
+      "author": "David Choi",
+      "image": "https://image.ebooks.com/cover/210210578.jpg?width=332&height=500&quality=85",
+      "date": "2020-12-16",
+      "body": "React sets the standard for building high-performance client-side web apps. Node.js is a scalable application server that is used in thousands of websites, while GraphQL is becoming the standard way for large websites to provide data and services to their users."
       ,"saved":false
     }
   ]
